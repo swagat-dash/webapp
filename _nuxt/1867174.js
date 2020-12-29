@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{381:function(e,l,t){"use strict";t.r(l);var n=t(18),component=Object(n.a)({},(function(){var e=this.$createElement,l=this._self._c||e;return l("v-card",{staticClass:"pa-3"},[l("h1",[this._v("All medicines will be Displayed Here")])])}),[],!1,null,null,null);l.default=component.exports}}]);
